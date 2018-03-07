@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCrimeReporter</string>
+    <string-array name="complaints">
+        <item>Missing</item>
+        <item>Others</item>
+
+
+    </string-array>
+</resources>

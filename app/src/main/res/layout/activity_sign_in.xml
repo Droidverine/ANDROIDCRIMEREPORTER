@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#ffffff"
+android:orientation="vertical">
+
+
+
+<TextView
+    android:id="@+id/app_description"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:textAlignment="center"
+    android:text="Welcome\n To \n Android \nCrime\nReporter"
+    android:textSize="32sp"
+    android:textColor="@color/colorPrimary"
+    android:textStyle="bold"
+    android:layout_marginBottom="69dp"
+    android:layout_above="@+id/sign_in_button"
+    android:layout_centerHorizontal="true" />
+
+
+<com.google.android.gms.common.SignInButton
+    android:id="@+id/sign_in_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginBottom="58dp" />
+
+
+</RelativeLayout>

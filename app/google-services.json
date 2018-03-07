@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "508412094533",
+    "firebase_url": "https://adcrimereporter.firebaseio.com",
+    "project_id": "adcrimereporter",
+    "storage_bucket": "adcrimereporter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508412094533:android:1ae455f47c637002",
+        "android_client_info": {
+          "package_name": "com.droidverine.adcrimereporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508412094533-ttcpf2b7hf67eiaslju5rvp47o0e8ud3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidverine.adcrimereporter",
+            "certificate_hash": "5a8b5940bc5c240886accaed249399ac3d6517a7"
+          }
+        },
+        {
+          "client_id": "508412094533-j1jturdqnk7qr1itotdkll90f5picvuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDEhoJHD08t_RjXbK4wyTdYNWjnQFIC2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508412094533-j1jturdqnk7qr1itotdkll90f5picvuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508412094533:android:ef97131f9cb34663",
+        "android_client_info": {
+          "package_name": "com.droidverine.androidcrimereporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508412094533-0dpmukvqb6305u4h48889p5i20n25png.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidverine.androidcrimereporter",
+            "certificate_hash": "5a8b5940bc5c240886accaed249399ac3d6517a7"
+          }
+        },
+        {
+          "client_id": "508412094533-j1jturdqnk7qr1itotdkll90f5picvuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDEhoJHD08t_RjXbK4wyTdYNWjnQFIC2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508412094533-j1jturdqnk7qr1itotdkll90f5picvuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
